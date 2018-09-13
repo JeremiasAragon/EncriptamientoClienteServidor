@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncriptamientoClienteServidor", "EncriptamientoClienteServidor\EncriptamientoClienteServidor.csproj", "{2DBD91DC-26A0-4B8A-BABF-FC2129AB0808}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DBD91DC-26A0-4B8A-BABF-FC2129AB0808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DBD91DC-26A0-4B8A-BABF-FC2129AB0808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DBD91DC-26A0-4B8A-BABF-FC2129AB0808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DBD91DC-26A0-4B8A-BABF-FC2129AB0808}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51D1E6EE-7E57-48D6-BB13-7E3888ED1CD5}
+	EndGlobalSection
+EndGlobal
